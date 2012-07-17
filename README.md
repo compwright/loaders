@@ -20,15 +20,16 @@ Features
 * Supports multiple database connections
 * Requires PHP5 & CodeIgniter 1.5+
 
-Download
-========
-
-TBD
-
 Installation
 ============
 
 Install and load *Loaders* as you would any other CodeIgniter helper.
+
+Or, use the [Sparks](http://getsparks.org/get-sparks) package installer:
+
+```
+php tools/spark install -v0.0.1 loaders
+```
 
 Usage
 =====
