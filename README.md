@@ -46,13 +46,13 @@ $this->load->view('myview', $data);
 With the View loader, do it this way:
 
 ```php
-View::show('myview', $data);
+Views::show('myview', $data);
 ```
 
 Or if you want to return a string instead of outputting the view, do this:
 
 ```php
-$pagetext = View::parse('myview', $data);
+$pagetext = Views::parse('myview', $data);
 ```
 
 Libraries
