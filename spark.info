@@ -1,4 +1,4 @@
 name: loaders
-version: 0.0.1
+version: 0.0.3
 compatibility: 2.1.2
 tags: ["autoload", "loaders", "modularity", "lazy-load"]
